@@ -1,0 +1,67 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "The first hero",
+      "description": "The first hero in the ranking!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Unknown hero",
+      "description": "Hiding in the shadows",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Sea hero",
+      "description": "Like Aquaman, but not DC",
+      "element": "water"
+    },
+    {
+      "id": "9fc794d8-6bc2-45fc-83d3-3e15eb20af29",
+      "name": "reberbe",
+      "description": "btb35b",
+      "element": ""
+    },
+    {
+      "id": "4927b8aa-9f7f-49a9-978b-7b2a0667e77a",
+      "name": "vqewvwerv",
+      "description": "wervwerv",
+      "element": ""
+    },
+    {
+      "id": "93a6e0fa-be85-41e8-b608-cff2b86c4e4a",
+      "name": "fw",
+      "description": "fww",
+      "element": "Loading items"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "all",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "fire",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "water",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "wind",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "earth",
+      "className": "btn-secondary"
+    }
+  ]
+}
