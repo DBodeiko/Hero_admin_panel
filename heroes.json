@@ -1,40 +1,52 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "The first hero",
-      "description": "The first hero in the ranking!",
-      "element": "fire"
-    },
-    {
-      "id": 2,
-      "name": "Unknown hero",
-      "description": "Hiding in the shadows",
-      "element": "wind"
-    },
-    {
-      "id": 3,
-      "name": "Sea hero",
-      "description": "Like Aquaman, but not DC",
+      "id": "b3266c01-9999-40d2-a661-6c1761bcb85c",
+      "name": "vfdvfv",
+      "description": "rvwerverwv",
       "element": "water"
     },
     {
-      "id": "9fc794d8-6bc2-45fc-83d3-3e15eb20af29",
-      "name": "reberbe",
-      "description": "btb35b",
-      "element": ""
+      "id": "8ef6ba84-f043-4efd-9852-9876d39b86bd",
+      "name": "цукицкеи",
+      "description": "умйукцукм",
+      "element": "water"
     },
     {
-      "id": "4927b8aa-9f7f-49a9-978b-7b2a0667e77a",
-      "name": "vqewvwerv",
-      "description": "wervwerv",
-      "element": ""
+      "id": "d6d83119-d5af-4ae1-8790-99bc8bd25f1c",
+      "name": "мйукмйуцкм",
+      "description": "айцаумцукицки",
+      "element": "fire"
     },
     {
-      "id": "93a6e0fa-be85-41e8-b608-cff2b86c4e4a",
-      "name": "fw",
-      "description": "fww",
-      "element": "Loading items"
+      "id": "321920bb-0487-4493-8fd3-d39dca5ac7d8",
+      "name": "eee",
+      "description": "цуцйумйукм",
+      "element": "wind"
+    },
+    {
+      "id": "2d26db3b-a909-4f78-a70d-a4a9bac73fbc",
+      "name": "цуасуцмйуц",
+      "description": "уйкмйукм",
+      "element": "wind"
+    },
+    {
+      "id": "b87dab09-9a02-43ee-99e7-62d5d6170085",
+      "name": "умйумумк",
+      "description": "йукмйукмйук",
+      "element": "fire"
+    },
+    {
+      "id": "f1c7aea3-167c-4e1f-a04c-7d2f5c163681",
+      "name": "йукмйукмй",
+      "description": "йукмйукмйук",
+      "element": "earth"
+    },
+    {
+      "id": "a6db7de0-abb4-41a2-bb6e-669c12c46f44",
+      "name": "йцмйукмйу",
+      "description": "уймкйукмйук",
+      "element": ""
     }
   ],
   "filters": [
