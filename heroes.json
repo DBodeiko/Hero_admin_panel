@@ -1,28 +1,10 @@
 {
   "heroes": [
     {
-      "id": "b3266c01-9999-40d2-a661-6c1761bcb85c",
-      "name": "vfdvfv",
-      "description": "rvwerverwv",
-      "element": "water"
-    },
-    {
-      "id": "8ef6ba84-f043-4efd-9852-9876d39b86bd",
-      "name": "цукицкеи",
-      "description": "умйукцукм",
-      "element": "water"
-    },
-    {
       "id": "d6d83119-d5af-4ae1-8790-99bc8bd25f1c",
       "name": "мйукмйуцкм",
       "description": "айцаумцукицки",
       "element": "fire"
-    },
-    {
-      "id": "321920bb-0487-4493-8fd3-d39dca5ac7d8",
-      "name": "eee",
-      "description": "цуцйумйукм",
-      "element": "wind"
     },
     {
       "id": "2d26db3b-a909-4f78-a70d-a4a9bac73fbc",
@@ -37,40 +19,57 @@
       "element": "fire"
     },
     {
-      "id": "f1c7aea3-167c-4e1f-a04c-7d2f5c163681",
-      "name": "йукмйукмй",
-      "description": "йукмйукмйук",
-      "element": "earth"
-    },
-    {
       "id": "a6db7de0-abb4-41a2-bb6e-669c12c46f44",
       "name": "йцмйукмйу",
       "description": "уймкйукмйук",
       "element": ""
+    },
+    {
+      "id": "7b57188c-539d-462b-990d-d3506c0b8635",
+      "name": "ebrgbertb",
+      "description": "btrtybryt",
+      "element": "earth"
+    },
+    {
+      "id": "f9c42005-9ea5-4763-b03e-ed3c6d89ef62",
+      "name": "wertwert",
+      "description": "wertwertwert",
+      "element": "water"
+    },
+    {
+      "id": "a3ed1a4e-aeaa-4409-a968-4f040f9ddeb0",
+      "name": "fwef",
+      "description": "wefwef",
+      "element": "earth"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "all",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "fire",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "water",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "wind",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "earth",
       "className": "btn-secondary"
